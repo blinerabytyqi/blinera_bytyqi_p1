@@ -104,7 +104,7 @@ while True :
                         "\n\nIpAddr\t\tKthen IP Adresen e klientit\t\t\tIP (ip)"\
                         "\nPortNr\t\tKthen Portin e klientit\t\t\t\tPORT (port)"\
                         "\nBashketingellore\t\tGjene numrin e bashketingelloreve ne tekst\t\tBashketingellore{hapesire}Teksti (bashketingellore{hapesire}Teksti)"\
-                        "\nPrinto\t\tShtyp fjalin e derguar\t\t\t\tPRINTO{hapesire}Teksti (printo{hapesire}Teksti)"\
+                        "\nPrinto\t\tShtyp fjalin e derguar\t\t\t\tPRINTO{hapesire}Teksti (printimi{hapesire}Teksti)"\
                         "\nHost\t\tKthen emrin e hostit\t\t\t\tHOST (host)"\
                         "\nKoha\t\tKthen kohen aktuale ne server\t\t\tTIME (koha)"\
                         "\nLoja\t\tKthen 7 numra te rastesishem nga 1 deri 49\tLOJA (loja)"\
